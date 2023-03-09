@@ -1,0 +1,22 @@
+img {
+width: 500px; 
+}
+
+span {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0)
+}
+
+li {
+    color: rgb(0, 0, 0);
+
+}
+
+.special
+{color: crimson;}
+
+.superspecial {
+    background-color: crimson;
+    width: 40%;
+}
+
